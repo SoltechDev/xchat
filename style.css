@@ -96,6 +96,7 @@ form .page .btns button.next{
   display: flex;
   margin: 40px 0;
   user-select: none;
+  flex-direction: row ;
 }
 .container .progress-bar .step{
   text-align: center;
